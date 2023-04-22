@@ -1,0 +1,10 @@
+C:\Users\Tay\source\repos\Q01\Q01\bin\Debug\Q01.exe.config
+C:\Users\Tay\source\repos\Q01\Q01\bin\Debug\Q01.exe
+C:\Users\Tay\source\repos\Q01\Q01\bin\Debug\Q01.pdb
+C:\Users\Tay\source\repos\Q01\Q01\obj\Debug\Q01.csproj.AssemblyReference.cache
+C:\Users\Tay\source\repos\Q01\Q01\obj\Debug\Q01.Form1.resources
+C:\Users\Tay\source\repos\Q01\Q01\obj\Debug\Q01.Properties.Resources.resources
+C:\Users\Tay\source\repos\Q01\Q01\obj\Debug\Q01.csproj.GenerateResource.cache
+C:\Users\Tay\source\repos\Q01\Q01\obj\Debug\Q01.csproj.CoreCompileInputs.cache
+C:\Users\Tay\source\repos\Q01\Q01\obj\Debug\Q01.exe
+C:\Users\Tay\source\repos\Q01\Q01\obj\Debug\Q01.pdb
